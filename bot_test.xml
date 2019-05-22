@@ -8,6 +8,8 @@
 	<ModulePrefs title="chatbot" height="500">
 	</ModulePrefs>
 	<Content type="html" href="bot_test2.html"/>
+	<stylesheet type="text/css" href="application.css"></stylesheet
+	<stylesheet type="text/css" href="repl-ai-widget.css"></stylesheet
 	<script type = "text / javascript" src = "application.js" > </script>
 	<script type = "text / javascript" src = "repl-ai-widget.js" > </script>  
 </Module>
