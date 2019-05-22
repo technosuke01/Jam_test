@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
-<!-- bot_test (XML, HTML, JavaScript) -->
+<!-- chatbot (XML, HTML, JavaScript) -->
 <Module specificationVersion='2'>
 	<!-- 
 	* STEP 1
 	* Let's rename our application and set a default height for the gadget to 500 in ModulePrefs
 	-->
-	<ModulePrefs title="bot_test" height="500">
+	<ModulePrefs title="chatbot" height="500">
 	</ModulePrefs>
 	<Content type="html" href="bot_test2.html"/>
 	<script type = "text / javascript" src = "application.js" > </script>
