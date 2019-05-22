@@ -8,5 +8,5 @@
 	<ModulePrefs title="bot_test" height="500">
 	</ModulePrefs>
 	<Content type="html" href="bot_test.html"/>
-	<script type = "text / javascript" src = "helloworld.js" > </script>  
+	<script type = "text / javascript" src = "repl-ai-widget.js" > </script>  
 </Module>
