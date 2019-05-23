@@ -1,8 +1,8 @@
 @charset "UTF-8";
 
 .repl-ai-chatboard {
-/*  display: table-cell;*/
-  z-index: 20000;
+  display: table-cell;
+    z-index: 20000;
   position: fixed;
   bottom: 0px;
   right: 0;
