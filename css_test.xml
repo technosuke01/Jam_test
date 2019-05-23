@@ -8,5 +8,5 @@
 	<ModulePrefs title="css_test" height="500">
 	</ModulePrefs>
 	<Content type="html" href="css_test.html"/>
-	<script type = "text / javascript" src = "helloworld.js" > </script>  
+	<Content type="html" href="css_test_2.html"/>
 </Module>
