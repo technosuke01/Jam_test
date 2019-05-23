@@ -16,4 +16,4 @@
 「master branch」に変更する  
 
 #### 参考サイト ####
-https://prog-8.com/docs/github-pages
+(https://prog-8.com/docs/github-pages)
