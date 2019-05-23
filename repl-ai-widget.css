@@ -129,7 +129,6 @@
       font-weight: bold;
       cursor: pointer; }
 
-/*
 #repl-ai-chatboard-icon {
   display: inline-block;
   position: fixed;
@@ -398,5 +397,5 @@
     border-bottom: 1px solid #e8e8e8; }
   .repl-ai-chatboard-form input[type=text]:focus {
     outline: none !important; }
-*/
+
 /*# sourceMappingURL=repl-ai-widget.css.map*/
