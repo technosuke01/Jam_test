@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
-<!-- chatbot (XML, HTML, JavaScript) -->
 <Module specificationVersion='2'>
-	<!-- 
-	* STEP 1
-	* Let's rename our application and set a default height for the gadget to 500 in ModulePrefs
-	-->
 	<ModulePrefs title="chatbot" height="500">
 	</ModulePrefs>
 	<Content type="html" href="bot_test2.html"/>
-	<stylesheet type="text/css" href="application.css"></stylesheet
-	<stylesheet type="text/css" href="repl-ai-widget.css"></stylesheet
+	<stylesheet type="text/css" href="application.css"></stylesheet>
+	<stylesheet type="text/css" href="repl-ai-widget.css"></stylesheet>
 	<script type = "text / javascript" src = "application.js" > </script>
 	<script type = "text / javascript" src = "repl-ai-widget.js" > </script>  
 </Module>
