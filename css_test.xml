@@ -8,5 +8,4 @@
 	<ModulePrefs title="css_test" height="500">
 	</ModulePrefs>
 	<Content type="html" href="css_test.html"/>
-	<Content type="html" href="css_test_2.html"/>
 </Module>
