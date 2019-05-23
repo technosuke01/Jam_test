@@ -9,6 +9,8 @@
   height: 500px;
   background-color: #fff !important;
  }
+
+/*
   @media screen and (max-width: 420px) {
     .repl-ai-chatboard {
       width: 100%; } }
@@ -397,5 +399,5 @@
     border-bottom: 1px solid #e8e8e8; }
   .repl-ai-chatboard-form input[type=text]:focus {
     outline: none !important; }
-
+*/
 /*# sourceMappingURL=repl-ai-widget.css.map*/
