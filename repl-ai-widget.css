@@ -1,6 +1,7 @@
 @charset "UTF-8";
+
 .repl-ai-chatboard {
-  display: table-cell;
+/*  display: table-cell;*/
   z-index: 20000;
   position: fixed;
   bottom: 0px;
@@ -9,7 +10,6 @@
   height: 500px;
   background-color: #fff !important;
  }
-
 /*
   @media screen and (max-width: 420px) {
     .repl-ai-chatboard {
