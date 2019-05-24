@@ -132,10 +132,10 @@
       font-weight: bold;
       cursor: pointer; }
 
+/*
 #repl-ai-chatboard-icon {
   display: inline-block;
   position: fixed;
-/*  right: 18px;*/
   left    18px;
   bottom: 15px;
   z-index: 99999;
@@ -173,6 +173,7 @@
   #repl-ai-chatboard-icon:hover img {
     width: 100px;
   }
+*/
 
 .repl-ai-chatboard-header {
   text-align: left;
